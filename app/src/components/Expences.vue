@@ -3,15 +3,15 @@
     <div class="expences">
       <div class="balance">
         <span>Balance</span>
-        <p>{{ allExpences.balance }}$</p>
+        <p>Rs. {{ allExpences.balance }}</p>
       </div>
       <div class="income">
         <span>Income</span>
-        <p>{{ allExpences.income }}$</p>
+        <p>Rs. {{ allExpences.income }}</p>
       </div>
       <div class="expence">
         <span>Expence</span>
-        <p>{{ allExpences.expence }}$</p>
+        <p>Rs. {{ allExpences.expence }}</p>
       </div>
     </div>
 
